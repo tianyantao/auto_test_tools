@@ -1,0 +1,14 @@
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:no-cache
+Content-Length:491
+Content-Type:application/x-www-form-urlencoded
+Cookie:Hm_mstid_=937344300604578; Sample=pengleijun; Hm_lvt_=1497837605,1497841965,1497841970,1497841971; _ga=GA1.2.1080921733.1497625490; _gid=GA1.2.772411172.1497837605; Hm_lvt_9f9b5bffee4cbc2aeda3d2bb3470e2f6=1497625490,1497684471,1497837605; ASP.NET_SessionId=f1ph5s15s40um021li1bn3bv
+Host:ucadmin.ewt360.com
+Origin:http://ucadmin.ewt360.com
+Pragma:no-cache
+Proxy-Connection:keep-alive
+Referer:http://ucadmin.ewt360.com/Member/Edit/8922973
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
